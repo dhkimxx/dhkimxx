@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhkimxx)](https://github.com/깃허브아이디/github-readme-stats)
+  ![dhkimxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhkimxx&show_icons=true&theme=transparent)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhkimxx&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhkimxx)](https://solved.ac/dhkimxx)
   
-  ![dhkimxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhkimxx&show_icons=true&theme=transparent)
+  
   
 </div>
 
